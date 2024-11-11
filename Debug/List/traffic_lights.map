@@ -1,0 +1,22 @@
+RAM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+EEPROM Allocation [bytes]
+Variable                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+
+Register Allocation
+Variable                                                                          Register  Size
+------------------------------------------------------------------------------------------------
+
+FLASH Allocation [words]
+Function                                                                          Address   Size
+------------------------------------------------------------------------------------------------
+cargreen_day                                                                      0x00064     13
+caryellow_day                                                                     0x00071      1
+carred_day                                                                        0x00072     11
+cargreen_night                                                                    0x0007D     15
+caryellow_night                                                                   0x0008C      9
+carred_night                                                                      0x00095     14
+main                                                                              0x000A3     33

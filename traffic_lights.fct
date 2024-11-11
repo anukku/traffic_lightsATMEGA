@@ -1,0 +1,2 @@
+main DSTACK_USAGE:0 DSTACK_LEVEL:0 FILE:"traffic_lights.c" LINE:140
+cargreen_day DSTACK_USAGE:4 DSTACK_LEVEL:4 FILE:"traffic_lights.c" LINE:32
